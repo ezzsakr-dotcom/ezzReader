@@ -4,7 +4,7 @@
     "downloadUrl": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v1.0/dictionary.db"
   },
   "app": {
-    "versionCode": 2, 
-    "downloadUrl": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v2.0/ezzReader.apk"
+    "versionCode": 1, 
+    "downloadUrl": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v1.0/ezzReader.apk"
   }
 }
