@@ -1,16 +1,15 @@
 {
   "dictionary": {
-    "versionCode": 3,
+    "versionCode": 1,
     "bundles": {
       "russian_only": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v1.0/dictionary_ru.db",
       "french_italian": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v1.0/dictionary_fr_it.db",
       "german_french": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v1.0/dictionary_ge_fr.db",
       "all_languages": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v1.0/dictionary_all.db"
     }
-  }
-}
+  },
   "app": {
     "versionCode": 1, 
     "downloadUrl": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v1.0.0-app/TT_Reader_v1.0.apk"
   }
-
+}
