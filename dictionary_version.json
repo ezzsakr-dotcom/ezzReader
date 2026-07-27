@@ -9,7 +9,7 @@
     }
   },
   "app": {
-    "versionCode": 6, 
-    "downloadUrl": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v6.0.0-app/TT_Reader_v6.apk"
+    "versionCode": 7,
+    "downloadUrl": "https://github.com/ezzsakr-dotcom/ezzReader/releases/download/v7.0.0-app/TT_Reader_v7.apk"
   }
 }
